@@ -1,0 +1,15 @@
+body {
+    margin: 100px 50px 0px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    background-color: beige;
+    
+}
+h1 {
+    margin-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+button {
+    margin: 10px 0px 0px 90px;
+}

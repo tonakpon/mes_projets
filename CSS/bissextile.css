@@ -1,0 +1,15 @@
+body {
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    background-color: beige;
+}
+.pa {
+    color: rgb(16, 187, 16);
+}
+.pb {
+    color: red;
+}
+input {
+    padding: 10px;
+}
